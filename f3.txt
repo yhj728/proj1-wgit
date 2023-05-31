@@ -1,2 +1,2 @@
 f3.txt 파일 생성
-f2.txt 파일을 topic2 브랜치에서 수정
+f3.txt 파일을 topic2 브랜치에서 수정
